@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DeezerDB": {
+      "commandName": "Project"
+    }
+  }
+}
